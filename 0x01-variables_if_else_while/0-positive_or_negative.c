@@ -5,7 +5,7 @@
  * main- specify if number positive,zero or  negative
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	int n;
 
@@ -24,6 +24,5 @@ int main (void)
 	{
 		printf("%d is zero\n", n);
 	}
-	
 return (0);
 }
