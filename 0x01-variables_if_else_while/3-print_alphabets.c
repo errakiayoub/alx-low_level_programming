@@ -8,9 +8,13 @@ int main(void)
 {
 	char e;
 	for (e = 'a' ; e <= 'z' ; e++)
-	{putchar(e)}
+	{
+		putchar(e)
+	}
 	for (e = 'A' ; e <= 'Z' ; e++)
-	{putchar(e)}
+	{
+		putchar(e)
+	}
 	putchar('\n')
 		return (0);
 }
