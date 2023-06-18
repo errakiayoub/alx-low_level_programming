@@ -22,7 +22,7 @@ else if ((i % 10) > 5)
 }
 else
 {
-	printf("Last digit of %d is 0 and is 0\n", i, i %10);
+	printf("Last digit of %d is 0 and is 0\n", i);
 }
 return (0);
 }
