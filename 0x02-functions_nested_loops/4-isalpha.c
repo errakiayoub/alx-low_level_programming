@@ -7,7 +7,7 @@
  */
 int _isalpha(int cha)
 {
-	if((cha >= 65 && cha <= 97) || (cha >= 97 && cha <= 122))
+	if ((cha >= 65 && cha <= 97) || (cha >= 97 && cha <= 122))
 	{
 		return (1);
 	}
